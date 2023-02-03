@@ -1,0 +1,37 @@
+{
+  "coord": { "lon": 110.4203, "lat": -6.9932 },
+  "weather": [
+    {
+      "id": 211,
+      "main": "Thunderstorm",
+      "description": "thunderstorm",
+      "icon": "11d"
+    },
+    { "id": 501, "main": "Rain", "description": "moderate rain", "icon": "10d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 302.11,
+    "feels_like": 307.57,
+    "temp_min": 302.11,
+    "temp_max": 302.11,
+    "pressure": 1008,
+    "humidity": 79
+  },
+  "visibility": 6000,
+  "wind": { "speed": 2.57, "deg": 360 },
+  "rain": { "1h": 1.54 },
+  "clouds": { "all": 40 },
+  "dt": 1672995873,
+  "sys": {
+    "type": 1,
+    "id": 9362,
+    "country": "ID",
+    "sunrise": 1672957700,
+    "sunset": 1673002738
+  },
+  "timezone": 25200,
+  "id": 1627896,
+  "name": "Semarang",
+  "cod": 200
+}
