@@ -34,7 +34,7 @@ function App() {
         </div>
       </div>
       <div className="container">
-        {data.name != undefined && (
+        {data.name !== undefined && (
           <div className="top">
             <div className="location">
               <p>{data.name}</p>
@@ -48,7 +48,7 @@ function App() {
           </div>
         )}
 
-        {data.name != undefined && (
+        {data.name !== undefined && (
           <div className="bottom">
             <div className="feels">
               {data.main ? (
